@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿// another comment
+using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 
 namespace PartsUnlimited.Models
